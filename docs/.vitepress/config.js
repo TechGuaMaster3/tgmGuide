@@ -59,8 +59,8 @@ const sidebarTW = {
                 { text: '第６章　挑高第五行', link: '/zh-tw/6' },
                 { text: '第７章　搞懂方塊的活動範圍', link: '/zh-tw/7' },
                 { text: '第８章　旋轉嵌入', link: '/zh-tw/8' },
+                { text: '第９章　飛渡', link: '/zh-tw/9' },
                 /*
-                { text: '第９章　', link: '/zh-tw/9' },
                 { text: '第１０章　', link: '/zh-tw/10' },
                 { text: '第１１章　', link: '/zh-tw/11' },
                 { text: '第１２章　', link: '/zh-tw/12' },
