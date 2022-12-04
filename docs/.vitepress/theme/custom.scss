@@ -8,6 +8,11 @@ table {
     &.table--no-header {
         thead {
             display: none;
+            width: 100%;
+        }
+        tbody {
+            display: table;
+            width: 100%;
         }
     }
     &.table--no-border {
@@ -30,7 +35,9 @@ table {
         display: block !important;
     }
     &-table {
-        display: table !important;
+        @media (min-width: 650px) {
+            display: table !important;
+        }
     }
 }
 
@@ -59,4 +66,8 @@ table {
 
 .text-large {
     font-size: 3em;
+}
+
+.overflow-x-auto {
+    overflow-x: auto;
 }
