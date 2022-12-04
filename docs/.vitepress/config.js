@@ -92,6 +92,7 @@ const sidebarTW = {
 };
 
 export default defineConfig({
+    base: '/tgmGuide/',
     title: 'TGM 攻略',
     description: '',
     base: '',
