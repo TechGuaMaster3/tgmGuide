@@ -95,7 +95,6 @@ export default defineConfig({
     base: '/tgmGuide/',
     title: 'TGM 攻略',
     description: '',
-    base: '',
     themeConfig: {
         nav: [
             { text: '首頁', link: '/' },
