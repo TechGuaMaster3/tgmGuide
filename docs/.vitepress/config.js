@@ -92,7 +92,8 @@ const sidebarTW = {
 export default defineConfig({
     base: '/tgmGuide/',
     title: 'TGM 攻略',
-    description: '',
+    appearance: 'dark',
+    description: '由彩學翻譯日本最詳盡的ＴＧＭ系統研討與技術心得 —— 「Ｊ．Ｏ的方塊講座」',
     themeConfig: {
         nav: [
             { text: '首頁', link: '/' },
