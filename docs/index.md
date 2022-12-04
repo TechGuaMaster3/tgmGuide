@@ -1,5 +1,5 @@
 ---
-title: TGM 攻略
+title: 首頁
 ---
 
 # {{ $frontmatter.title }}
